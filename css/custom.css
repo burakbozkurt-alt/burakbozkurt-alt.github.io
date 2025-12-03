@@ -1,1 +1,7 @@
 
+/* NAV ICON COLORS FIX */
+.attr-nav > ul > li > a,
+.attr-nav > ul > li > a i,
+.search a i {
+    color: #ffffff !important;
+}
